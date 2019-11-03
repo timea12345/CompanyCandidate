@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Cristina",
+    "levelOfCompetence": 10,
+    "departmentName": "MARKETING",
+    "status": "AWAITING_RESPONSE",
+    "gender": "F"
+  },
+  {
+    "fullName": "Laurentiu",
+    "levelOfCompetence": 10,
+    "departmentName": "MARKETING",
+    "status": "AWAITING_RESPONSE",
+    "gender": "M"
+  },
+  {
+    "fullName": "Ana",
+    "levelOfCompetence": 9,
+    "departmentName": "MARKETING",
+    "status": "AWAITING_RESPONSE",
+    "gender": "F"
+  },
+  {
+    "fullName": "Maria",
+    "levelOfCompetence": 8,
+    "departmentName": "MARKETING",
+    "status": "AWAITING_RESPONSE",
+    "gender": "F"
+  }
+]
